@@ -1,0 +1,23 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+h4 {
+    margin: 30px;
+}
+#left{
+    float: left;
+   text-align: left;
+}
+#right{
+    float: right;
+  text-align: right;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: baseline;
+}
